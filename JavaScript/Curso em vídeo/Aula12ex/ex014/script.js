@@ -2,8 +2,8 @@ function carregar(){
     var msg = document.getElementById('mensagem')
     var img = document.getElementById('foto')
     var horas = new Date()
-    //var hora = horas.getHours()
-    var hora = 19
+    var hora = horas.getHours()
+    //var hora = 19
     var minuto = horas.getMinutes()
     var segundo = horas.getSeconds()
 
