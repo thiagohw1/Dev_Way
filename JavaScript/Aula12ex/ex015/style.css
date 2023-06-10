@@ -1,22 +1,11 @@
 body{
     background: rgb(70, 70, 255);
     font: normal 15pt Arial;
-
-
 }
 
 header{
+    color: white;
     text-align: center;
-}
-div{
-    text-align: center;
-    padding: 10px;
-}
-#foto{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-
 }
 
 section{
